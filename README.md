@@ -1,4 +1,5 @@
 In order to apply this algorithm efficiently you must follow certain criteria.
+
 1] The last column of the dataset should contain the target / label classes.
 2] Also the last column should be named as "label"
 
