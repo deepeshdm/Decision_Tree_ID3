@@ -1,10 +1,10 @@
 
-# MUST FOLLOW RULE:
+# MUST FOLLOW RULES:
 # 1] The last column should contain the class labels.
 # 2] Last column should have the name as "label".
 # 3] No missing values allowed.
-from pprint import pprint
 
+from pprint import pprint
 import numpy as np
 import random
 import pandas as pd
